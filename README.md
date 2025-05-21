@@ -30,7 +30,7 @@ AILite is a cutting-edge autonomous robot designed for a wide range of applicati
         
         192.168.{bot_number}.10
         
-  -For example 'AILITE-1034' here inverse of last two number is the bot number
+  -For example 'AILITE-0134' here inverse of last two number is the bot number
 
         
         192.168.43.10
